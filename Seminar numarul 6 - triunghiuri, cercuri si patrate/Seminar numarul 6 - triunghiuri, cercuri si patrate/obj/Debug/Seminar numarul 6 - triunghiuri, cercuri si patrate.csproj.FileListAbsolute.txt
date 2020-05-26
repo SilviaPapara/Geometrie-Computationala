@@ -1,0 +1,9 @@
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\bin\Debug\Seminar numarul 6 - triunghiuri, cercuri si patrate.exe.config
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\bin\Debug\Seminar numarul 6 - triunghiuri, cercuri si patrate.exe
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\bin\Debug\Seminar numarul 6 - triunghiuri, cercuri si patrate.pdb
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\obj\Debug\Seminar numarul 6 - triunghiuri, cercuri si patrate.csprojAssemblyReference.cache
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\obj\Debug\Seminar_numarul_6___triunghiuri__cercuri_si_patrate.Form1.resources
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\obj\Debug\Seminar_numarul_6___triunghiuri__cercuri_si_patrate.Properties.Resources.resources
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\obj\Debug\Seminar numarul 6 - triunghiuri, cercuri si patrate.csproj.GenerateResource.cache
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\obj\Debug\Seminar numarul 6 - triunghiuri, cercuri si patrate.exe
+C:\Users\silvia1\Desktop\geometrie\Seminar numarul 6 - triunghiuri, cercuri si patrate\Seminar numarul 6 - triunghiuri, cercuri si patrate\obj\Debug\Seminar numarul 6 - triunghiuri, cercuri si patrate.pdb
