@@ -1,0 +1,9 @@
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\bin\Debug\Seminar 9 - Bun.exe.config
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\bin\Debug\Seminar 9 - Bun.exe
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\bin\Debug\Seminar 9 - Bun.pdb
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\obj\Debug\Seminar 9 - Bun.csprojAssemblyReference.cache
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\obj\Debug\Seminar_9___Bun.Form1.resources
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\obj\Debug\Seminar_9___Bun.Properties.Resources.resources
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\obj\Debug\Seminar 9 - Bun.csproj.GenerateResource.cache
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\obj\Debug\Seminar 9 - Bun.exe
+C:\Users\silvia1\Desktop\geometrie\Seminar 9 - Bun\Seminar 9 - Bun\obj\Debug\Seminar 9 - Bun.pdb
