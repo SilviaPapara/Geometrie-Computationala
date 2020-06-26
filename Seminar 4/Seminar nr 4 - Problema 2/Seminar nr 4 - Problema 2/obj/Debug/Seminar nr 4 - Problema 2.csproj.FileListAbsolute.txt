@@ -1,0 +1,6 @@
+C:\Users\silvia1\Desktop\geometrie\Seminar 4\Seminar nr 4 - Problema 2\Seminar nr 4 - Problema 2\bin\Debug\Seminar nr 4 - Problema 2.exe.config
+C:\Users\silvia1\Desktop\geometrie\Seminar 4\Seminar nr 4 - Problema 2\Seminar nr 4 - Problema 2\bin\Debug\Seminar nr 4 - Problema 2.exe
+C:\Users\silvia1\Desktop\geometrie\Seminar 4\Seminar nr 4 - Problema 2\Seminar nr 4 - Problema 2\bin\Debug\Seminar nr 4 - Problema 2.pdb
+C:\Users\silvia1\Desktop\geometrie\Seminar 4\Seminar nr 4 - Problema 2\Seminar nr 4 - Problema 2\obj\Debug\Seminar nr 4 - Problema 2.csprojAssemblyReference.cache
+C:\Users\silvia1\Desktop\geometrie\Seminar 4\Seminar nr 4 - Problema 2\Seminar nr 4 - Problema 2\obj\Debug\Seminar nr 4 - Problema 2.exe
+C:\Users\silvia1\Desktop\geometrie\Seminar 4\Seminar nr 4 - Problema 2\Seminar nr 4 - Problema 2\obj\Debug\Seminar nr 4 - Problema 2.pdb
